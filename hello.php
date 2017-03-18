@@ -39,7 +39,7 @@
  </head>
  <body>
   <div class="wrapper">
-  <h1> Hello PHP!</h1>
+  <h1> Hello PHP#!</h1>
    <p>这是 <a href="https://www.goodrain.com" target="_blank">好雨</a> 云平台 <a href="http://code.goodrain.com/demo/php-hello/tree/master" target="_blank">PHP</a> 代码演示效果页面。</p>
    <p>
      本页面是一个静态页面，动态页面示例：<a href='phpinfo.php'  style="color: green; text-decoration: underline;">查看phpinfo信息</a>
